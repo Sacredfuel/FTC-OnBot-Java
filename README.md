@@ -9,3 +9,8 @@ If this is your first experience with *FIRST* Tech Challenge software and code, 
 The Javadoc reference documentation for the FTC SDK is available online. It contains all classes that are inherited into this code.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://ftctechnh.github.io/ftc_app/doc/javadoc/index.html   
+
+## Online User Forum
+For technical questions regarding the SDK, please visit the FTC Technology forum:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;http://ftcforum.usfirst.org/forumdisplay.php?156-FTC-Technology
